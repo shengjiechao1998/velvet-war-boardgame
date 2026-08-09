@@ -12,5 +12,5 @@ The version 1.0 of "Velvet War" has already been finished. A rulebook and a prot
 The round 1 playtesting has been accomplished.
 
 ## Rulebook
-- Rulebook (English): (./rulebook.pdf)
-- 规则书 (中文) (./规则书.pdf)
+- [Rulebook (English)]: (rulebook.pdf)
+- [规则书 (中文)]: (规则书.pdf)
