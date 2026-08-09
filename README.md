@@ -12,5 +12,18 @@ The version 1.0 of "Velvet War" has already been finished. A rulebook and a prot
 The round 1 playtesting has been accomplished.
 
 ## Rulebook
-- [Rulebook (English)]: (rulebook.pdf)
-- [规则书 (中文)]: (规则书.pdf)
+- [Rulebook (English)](rulebook.pdf)
+- [规则书 (中文)](规则书.pdf)
+
+## Playable Prototype
+link for tabletop simulator on steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3702485895
+> Notes: Only scenario 1848 is currently available; the Chinese version is upcoming  
+注意：目前只有1848剧本上传；中文版正在更新
+
+## Contact
+Please feel free to contact me if you would like to:
+- Offer me a job in game, research or analysis. I have an economics bachelor and master degree, and I specialize in complex dynamic macroeconomic modelling. Moreover, I love economics and history.
+- Cooperate with me on commercially publishing this game. You are welcome to contact me if you are a publisher in boardgame, or if you are a video game producer.
+- Send me feedback or attend my playtesting. I am about to start the next round playtesting both online and offline (maybe in Shanghai or Shenzhen).
+
+My email address: shengjiechao1998@gmail.com
