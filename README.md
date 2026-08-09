@@ -1,5 +1,7 @@
-# velvet-war-boardgame
-A 19th-century geopolitical wargame based on the politics and diplomacy of European Great Powers in Victorian Age. Prototype link, rulebook and synopsis are here.
+<img width="1754" height="1166" alt="main map" src="https://github.com/user-attachments/assets/442a6664-da94-4ec2-930e-a21525ab2ed2" /># velvet-war-boardgame
+A 19th-century geopolitical wargame based on the politics and diplomacy of European Great Powers in Victorian Age. Prototype link, rulebook and synopsis are here.  
+[Preview](main_map.jpeg)
+
 
 ## Introduction of Gameplay:
   "Velvet War" is a heavy-strategy card-driven boardgame with extensive simulation in diplomacy and colonial expansion during Victorian Age. A total of 2-6 players act as Great Powers in Europe, developing economy, expanding their territories overseas and starting a grand war with other powers if necessary.
